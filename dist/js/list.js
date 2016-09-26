@@ -1,0 +1,1 @@
+webpackJsonp([2],{0:function(t,a,e){"use strict";function u(t){return t&&t.__esModule?t:{"default":t}}var n=e(1),d=u(n),f=e(10),o=u(f);e(2),(0,d["default"])(function(){(0,d["default"])("<div>没错，这就是列表页"+o["default"]+"</div>").appendTo((0,d["default"])("body"))})},10:function(t,a){"use strict";var e="aaaa";t.exports=e}});

@@ -1,0 +1,1 @@
+webpackJsonp([0],[function(e,t,u){"use strict";function d(e){return e&&e.__esModule?e:{"default":e}}var n=u(1),o=d(n);u(2),(0,o["default"])(function(){(0,o["default"])("<div>没错，这就是home页</div>").appendTo((0,o["default"])("body"))})}]);

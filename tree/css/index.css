@@ -1,0 +1,10 @@
+.index{
+    font-size:50px;
+    color:#000;
+}
+.bg{
+    width:200px;
+    height:200px;
+    background:url(../images/pig.jpg) no-repeat;
+    background-size:cover;
+}

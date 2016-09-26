@@ -1,0 +1,1 @@
+webpackJsonp([1],[function(a,e,t){"use strict";function u(a){return a&&a.__esModule?a:{"default":a}}var d=t(1),n=u(d);t(2),(0,n["default"])(function(){(0,n["default"])("<div>没错，这就是首页hahaha</div>").appendTo((0,n["default"])("body"))})}]);
